@@ -1,0 +1,19 @@
+kits:
+  soldier:
+    name: Soldier # Kit name, required
+    item: iron_sword # Item in the GUI Menu, required
+    description: Soldier kit # Kit Description, optional
+    items: #items in kit
+      iron_sword:
+        amount: 1 #amount, required
+        enchants:
+          - SHARPNESS:1 #ENCHANT:level
+      mushroom_stew:
+        name: Some soup #Item's displayname, optinal
+        amount: 32 #Amount, required
+      crackshot-ak: #crackshot item need to has to start with "crackshot-"
+        weapon: AK-47 #id of the crcakshot weapon
+        guiname: AK-47 # name in the Lore of the kit
+        amount: 1
+#Available enchantments: SHARPNESS, UNBREAKING
+    

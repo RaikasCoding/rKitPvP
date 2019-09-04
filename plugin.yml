@@ -1,0 +1,11 @@
+name: rKitpvp
+main: ga.raikas.kitpvp.P
+version: 1.0
+api-version: 1.13
+author: Raikasta
+description: An KitPvP core for PvP servers.
+softdepend: [CrackShot]
+commands:
+  rkitpvp:
+    description: The Magical Main Command!
+    usage: /rkitpvp kit <kit>
