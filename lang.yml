@@ -1,9 +1,10 @@
-kitchoosed: You choosed kit {kit}!
-kits: Kits
-items: Items
-choosekit: Choose Kit
-choosekit-description: Choose a kit and teleport to arena.
-kitsavailable: Kits Available
-kitnotfound: Kit not found
-spawnadded: Spawn added succesfully
-lobbyset: Lobby set succesfully
+lang:
+  kitchoosed: You choosed kit {kit}!
+  kits: Kits
+  items: Items
+  choosekit: Choose Kit
+  choosekit-description: Choose a kit and teleport to arena.
+  kitsavailable: Kits Available
+  kitnotfound: Kit not found
+  spawnadded: Spawn added succesfully
+  lobbyset: Lobby set succesfully
